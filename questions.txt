@@ -1,0 +1,125 @@
+What is the output of: print(2 ** 3)?
+1. 6
+2. 9
+3. 8
+Answer: 3
+What is the output of: print(2 ** 3)?
+1. 6
+2. 9
+3. 8
+Answer: 3
+What is the correct file extension for Python files?
+1. .pt
+2. .pyt
+3. .py
+Answer: 3
+Which function is used to get the length of a list?
+1. size()
+2. len()
+3. count()
+Answer: 2
+Which of the following is immutable in Python?
+1. List
+2. Dictionary
+3. Tuple
+Answer: 3
+How do you create a dictionary?
+1. {}
+2. []
+3. ()
+Answer: 1
+Which of the following is used to define a function in Python?
+1. function
+2. def
+3. lambda
+Answer: 2
+Which data type is mutable in Python?
+1. Tuple
+2. List
+3. String
+Answer: 2
+What is the output of 'print(type(10))' in Python?
+1. int
+2. float
+3. str
+Answer: 1
+How do you start a loop in Python?
+1. for
+2. while
+3. loop
+Answer: 1
+What is the output of 'print(3 // 2)?'
+1. 1
+2. 1.5
+3. 2
+Answer: 1
+What is the output of: print(bool([]))?
+1. True
+2. False
+3. Error
+Answer: 2
+Which module is used for regular expressions in Python?
+1. regex
+2. re
+3. match
+Answer: 2
+How do you handle exceptions in Python?
+1. try...catch
+2. try...except
+3. try...handle
+Answer: 2
+What is the time complexity of binary search?
+1. O(log n)
+2. O(n)
+3. O(n^2)
+Answer: 1
+Which data structure works on FIFO?
+1. Stack
+2. Queue
+3. Tree
+Answer: 2
+What is the time complexity of merging two sorted arrays?
+1. O(n)
+2. O(n^2)
+3. O(log n)
+Answer: 1
+Which sorting algorithm is considered stable?
+1. Quick Sort
+2. Bubble Sort
+3. Merge Sort
+Answer: 3
+Which data structure is used to implement a priority queue?
+1. Stack
+2. Binary Heap
+3. Linked List
+Answer: 2
+What is the time complexity of inserting an element in a linked list?
+1. O(1)
+2. O(log n)
+3. O(n)
+Answer: 1
+Which is the best sorting algorithm in terms of time complexity?
+1. Merge Sort
+2. Bubble Sort
+3. Selection Sort
+Answer: 1
+What is the worst-case time complexity of Quick Sort?
+1. O(n log n)
+2. O(n^2)
+3. O(n)
+Answer: 2
+Which of the following uses a graph?
+1. HashMap
+2. Binary Tree
+3. DFS
+Answer: 3
+What is the maximum number of nodes in a binary tree of height h?
+1. 2^h
+2. 2^(h+1) - 1
+3. h^2
+Answer: 2
+What is the space complexity of BFS?
+1. O(V + E)
+2. O(V)
+3. O(E)
+Answer: 1
